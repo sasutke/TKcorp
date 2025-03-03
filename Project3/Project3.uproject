@@ -14,14 +14,6 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
-		},
-		{
-			"Name": "AppleVision",
-			"Enabled": true
-		},
-		{
-			"Name": "CineCameraRigs",
-			"Enabled": true
 		}
 	]
 }
