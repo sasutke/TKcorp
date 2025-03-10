@@ -16,19 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "HEAT",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/product/eedd35c01af2481ebfdcb43e6eae9f8c"
-		},
-		{
-			"Name": "iFacialMocap",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a91466a1696d4462874903dd715520c0",
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "VRM4U",
 			"Enabled": true
 		}
