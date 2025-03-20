@@ -279,8 +279,9 @@ namespace VRMSpringBone {
 		if (meta == nullptr) return;
 		if (bInit) return;
 
-		if (meta->GetVRMVersion() == 1) return;
-		if (meta->VrmAssetListObject == nullptr) return;
+		if (meta->GetVRMVersion() == 1) {
+			return;
+		}
 
 		skeletalMesh = VRMGetSkinnedAsset(Output.AnimInstanceProxy->GetSkelMeshComponent());
 		//skeletalMesh = meta->SkeletalMesh;
